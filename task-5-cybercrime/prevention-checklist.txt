@@ -1,0 +1,17 @@
+Prevention checklist for cyberfraud
+
+1)Use Strong & Unique Passwords — Never use your name, date of birth, or "12345" as passwords. Create passwords with a mix of uppercase, lowercase, numbers, and symbols (e.g., R@hu!2025). Use a different password for every app and account.
+
+2)Never Share Your OTP, UPI PIN, or CVV — No bank, government body, or payment app will ever ask for your OTP or PIN over a call or message. If someone asks, it is a scam — hang up immediately.
+
+3)Think Before You Click Any Link — Avoid clicking on unknown links received via WhatsApp, SMS, email, or Instagram DMs. Fraudsters often disguise malicious links as scholarship offers, job notifications, or lucky draws.
+
+4)Avoid Using Public Wi-Fi for Banking or Payments — Free Wi-Fi at cafés, malls, or college canteens can be monitored by hackers. Never do UPI transactions, net banking, or login to sensitive accounts on public networks.
+
+5)Enable Two-Factor Authentication (2FA) — Turn on 2FA on all important accounts — Gmail, Instagram, college portal, banking apps. This adds a second layer of security even if your password is stolen.
+
+6)Download Apps Only from Official Sources — Only install apps from the Google Play Store or Apple App Store. Avoid APK files sent over WhatsApp or Telegram — they often contain spyware or malware.
+
+7)Check UPI Requests Carefully — Receiving ≠ Scanning — Remember: you do NOT need to scan a QR code or enter your PIN to receive money. If someone asks you to scan to get paid, it is 100% a fraud attempt.
+
+8)Be Careful What You Post on Social Media — Avoid publicly sharing your phone number, home address, college ID, Aadhaar details, or daily routine on Instagram, Facebook, or LinkedIn. Fraudsters collect this information to target you.
